@@ -1,3 +1,13 @@
+    ____               _           __ _____
+   / __ \_________    (_)__  _____/ //__  /
+  / /_/ / ___/ __ \  / / _ \/ ___/ __/ / / 
+ / ____/ /  / /_/ / / /  __/ /__/ /_  / /  
+/_/   /_/   \____/_/ /\___/\___/\__/ /_/   
+                /___/                      
+
+
+
+
 Simple Windows optimization utility, nothing more, nothing less.
 Very easy to set up and use.
 
